@@ -1,1 +1,3 @@
-# ONLINE_DS_THEBRIDGE_MODULOS
+# Data Science Full Time
+
+Repositorio oficial del material de Data Science para los bootcamps the The Bridge.
