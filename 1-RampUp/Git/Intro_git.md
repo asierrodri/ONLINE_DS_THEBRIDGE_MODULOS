@@ -18,7 +18,7 @@
 
 ## 1. ¿Qué es Git?
 
-Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia. Es fácil de aprender y tiene un rendimiento diminuto con operaciones de tipo lightning-fast. 
+Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia. Es fácil de aprender y tiene un rendimiento diminuto con operaciones de tipo lightning-fast.
 
 Git se creó por primera vez en 2005 por Linus Torvalds, el creador del sistema operativo Linux, con el objetivo de rastrear los cambios en el código fuente durante el desarrollo de software. Desde entonces, se ha convertido en el sistema de control de versiones más popular entre los desarrolladores.
 
@@ -52,13 +52,12 @@ Antes de profundizar en los comandos de Git, aqui te dejo algunos conceptos bás
 - **Branch**: Un branch es una versión paralela de un repositorio. Se utiliza para trabajar en diferentes versiones de un proyecto simultaneamente.
 - **Staging Area**: El Staging Area es un lugar donde podemos agrupar nuestros cambios en archivos en preparación para un commit.
 
-## 6. Comandos básicos de Git
+###### 6. Comandos básicos de Git
 
 A continuación se presentan algunos de los comandos básicos que utilizaremos con más frecuencia al trabajar con Git. Si deseas una referencia más completa, consulta la [documentación oficial de Git](https://git-scm.com/doc).
 
 - `git clone <url>`: Clona un repositorio de Git desde la URL especificada.
 - `git pull`: Actualiza los cambios del repositorio en remoto en tu repositorio local.
-
 - `git init`: Inicia un nuevo repositorio de Git.
 - `git status`: Muestra el estado del repositorio actual.
 - `git add <archivo>`: Agrega un archivo al staging area.
@@ -68,7 +67,6 @@ A continuación se presentan algunos de los comandos básicos que utilizaremos c
 - `git branch <nombre>`: Crea un nuevo branch.
 - `git checkout <nombre>`: Cambia al branch especificado.
 - `git merge <nombre>`: Fusiona el branch especificado con el branch actual.
-
 
 ![Esquema](./img/git_schema.PNG)
 
