@@ -11,6 +11,8 @@
 *lenguaje/Teoria/data/test/
 */data/dogs_cats/
 
+# Solved notebooks
+*.solved.ipynb
 
 
 # Byte-compiled / optimized / DLL files
