@@ -13,7 +13,7 @@
 
 # Solved notebooks
 *.solved.ipynb
-
+*.unsolved.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
