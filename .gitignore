@@ -15,6 +15,10 @@
 *.solved.ipynb
 *.unsolved.ipynb
 
+# Solved python scripts
+*.solved.py
+*.unsolved.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
