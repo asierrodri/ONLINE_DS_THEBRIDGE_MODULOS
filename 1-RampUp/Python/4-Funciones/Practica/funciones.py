@@ -71,19 +71,19 @@ def fibonacci(n):
         return n
     return fibonacci(n-1) + fibonacci(n-2)
 
-def cuadrado(l, n=1):
+def cuadrado_prueba(l, n=1):
     return round(n * l ** 2, 2)
 
-def triangulo(b, a):
+def triangulo_prueba(b, a):
     return round(b * a / 2, 2)
 
-def circulo(r):
+def circulo_prueba(r):
     return round(math.pi * r ** 2, 2)
 
 
 
 if __name__ == "__main__":
-    print(triangulo(3,7))
-    print(circulo(10))
+    print(triangulo_prueba(3,7))
+    print(circulo_prueba(10))
     print()
     
