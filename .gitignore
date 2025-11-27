@@ -19,6 +19,12 @@
 *.solved.py
 *.unsolved.py
 
+# Solved CSVs
+*.solved.csv
+
+# Solved SQL queries
+*.solved.sql
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
