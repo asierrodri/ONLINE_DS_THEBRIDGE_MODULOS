@@ -25,6 +25,10 @@
 # Solved SQL queries
 *.solved.sql
 
+# Solved anything else
+*.solved.*
+*.unsolved.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
