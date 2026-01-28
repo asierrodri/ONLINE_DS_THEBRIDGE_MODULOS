@@ -236,3 +236,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+3-Machine_Learning/7-NLP/NLTK&CountVectorizer/ejercicios/data/train-balanced-sarcasm.csv
